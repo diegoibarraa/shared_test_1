@@ -1,3 +1,4 @@
+Added a 0th new line
 This is a new file
 this is a sec line
 this is a thrid line
